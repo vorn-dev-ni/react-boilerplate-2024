@@ -25,12 +25,12 @@ git clone https://github.com/vorn-dev-ni/react-template-2024
 Install with npm :
 
 ```bash
-cd material_ui_products
+cd the_project
 npm install
 ```
 Install with yarn :
 ```bash
-cd material_ui_products
+cd the_project
 yarn install
 ```
 ## Installed Libraries and Features
